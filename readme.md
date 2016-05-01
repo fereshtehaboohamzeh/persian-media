@@ -1,0 +1,1 @@
+a single responsive html web page using media queries

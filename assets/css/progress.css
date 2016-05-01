@@ -1,0 +1,30 @@
+$("#container").Progress({
+
+  // width & height of the progress bar
+  width: 90,
+  height: 20, 
+
+  // percent value
+  percent: 0, 
+
+  // background color of the progress bar
+  backgroundColor: '#555',
+
+  // fill color of the progress bar
+  barColor: '#d9534f', 
+
+  // text color
+  fontColor: '#fff', 
+
+  // border radius
+  radius: 4,
+
+  // font size
+  fontSize: 12,
+
+  // animation options
+  increaseTime: 1000.00/60.00, 
+  increaseSpeed: 1, 
+  animate: true
+  
+});
